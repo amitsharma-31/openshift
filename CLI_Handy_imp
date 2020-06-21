@@ -1,0 +1,1 @@
+Login to cluster|$oc login -u kubeadm -p <password>
