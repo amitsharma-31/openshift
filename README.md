@@ -1,10 +1,9 @@
 # openshift
 Openshift related stuff <br>
-|Description|CLI|<br>
-| :--- | ---: |<br>
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| CLI Description  | CLI           |
+| ---------------- | ------------- |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
