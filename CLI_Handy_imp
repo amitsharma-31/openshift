@@ -1,1 +1,3 @@
-Login to cluster|$oc login -u kubeadm -p <password>
+|Command Description|Command|
+|-------------------|-------|
+|Login to cluster|$oc login -u kubeadm -p <password>|
